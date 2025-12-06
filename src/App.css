@@ -759,9 +759,9 @@
   .section2__content h2 { font-size: 1.25rem; }
   .section2__content h1 { font-size: 1.5rem; }
   .section2__content p { font-size: 0.9rem; }
-  .section2__left { gap: 10px; }
-  .section2__thumb { padding: 10px; }
-  .section2__thumb img { width: 150px; height: 70px; border-radius: 10px 10px 0 0; }
+  .section2__left { gap: 5px; }
+  .section2__thumb { padding: 5gitpx; }
+  .section2__thumb img {margin: 0; width: 150px; height: 70px; border-radius: 10px 10px 0 0; }
 
   .hero_wrapper { flex-direction: column; }
   .promo { margin-top: 50px; }
