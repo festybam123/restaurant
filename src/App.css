@@ -783,7 +783,7 @@ Link {
   .section4__content { text-align: center; }
   .section4__content h2 { font-size: 1.5rem; }
   .section4__content p { font-size: 1rem; }
-  .section4__content h2 span{ text-align: center;}
+  .section4__content span{ text-align: center; align-self: center; align-content: center;}
   .btn__cnt { flex-wrap: wrap; justify-content: center; gap: 10px; }
   .gallery2_grid { flex-direction: column; }
 
