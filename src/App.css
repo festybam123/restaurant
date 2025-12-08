@@ -773,7 +773,7 @@
 
   .section__4 { flex-direction: column; }
   .section4__content { text-align: center; }
-  .section4__content h2 { font-size: 1rem; }
+  .section4__content h2 { font-size: 1.5rem; }
   .btn__cnt { flex-wrap: wrap; justify-content: center; gap: 10px; }
   .gallery2_grid { flex-direction: column; }
 
