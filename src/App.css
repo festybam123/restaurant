@@ -74,6 +74,14 @@
   cursor: pointer;
 }
 
+.span2{
+  text-decoration: none ;
+}
+
+Link {
+  text-decoration: none;
+}
+
 .controls input{
   flex: 1;
   padding: 7px;
