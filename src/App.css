@@ -761,7 +761,7 @@
   .section2__content p { font-size: 0.9rem; }
   .section2__left { flex-direction: column; gap: 5px; }
   .section2__thumb { padding: 3px; }
-  .thumb_label { border-radius: 4px; top: 15px; }
+  .thumb_label { border-radius: 4px; top: 0; left: 0; }
   .thumb_name { border-radius: 0 0 10px 10px; width: 45%; }
   .section2__thumb img { width: 50%; height: 55px; border-radius: 10px 10px 0 0; }
 
