@@ -761,9 +761,9 @@
   .section2__content p { font-size: 0.9rem; }
   .section2__left { flex-direction: column; gap: 5px; }
   .section2__thumb { padding: 3px; }
-  .thumb_label { border-radius: 4px; top: 10px; }
-  .thumb_name { border-radius: 0 0 10px 10px; width: 50%; }
-  .section2__thumb img { width: 50%; height: 50px; border-radius: 10px 10px 0 0; }
+  .thumb_label { border-radius: 4px; top: 15px; }
+  .thumb_name { border-radius: 0 0 10px 10px; width: 45%; }
+  .section2__thumb img { width: 50%; height: 55px; border-radius: 10px 10px 0 0; }
 
   .hero_wrapper { flex-direction: column; }
   .promo { margin-top: 50px; }
